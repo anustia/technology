@@ -1,0 +1,89 @@
+.box{
+	width: 311px;
+	height: 222px;
+	max-width: 100%;
+	margin: 0px auto 0px;
+}
+p{
+	color: #4D4F62;
+	font-family: 'Poppins', sans-serif;
+	font-size: 400;
+	font-size: 13px;
+	line-height: 23px;
+}
+h2{
+	color: #4D4F62;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 600;
+	font-size: 20px;
+	line-height: 30px;
+}
+body{
+	background-color:#F2F2F2;
+}
+h1{
+	font-family: 'Poppins', sans-serif;
+	font-weight: 275;
+	font-size:24px ;
+	line-height: 36px;
+	color: #4D4F62;
+	margin: 85px auto 1px auto;
+
+}
+/*header*/
+.header-box{
+	width: 311px;
+	height: 100%;
+	margin: 0px auto 0px;
+}
+.header-span{
+	margin: 1px auto 13px auto;
+	display: block;
+
+	font-family: 'Poppins', sans-serif;
+	font-weight: 600;
+	font-size: 24px;
+	line-height:36px ;
+
+
+}
+.header-p{
+	width: 311px;
+	height: 75px;
+	margin: auto auto 76px auto;
+}
+
+
+/*section styles*/
+.section-box1{
+
+	background-color: #ffffff;
+	border-top: 3px solid #44D3D2;
+}
+.section-box2{
+	border-top: 3px solid #EA5454;
+	background-color: #ffffff;
+}
+.section-box3{
+	border-top: 3px solid #FCAE4A;
+	background-color: #ffffff;
+}
+.section-box4{
+	border-top: 3px solid #549EF2;
+	background-color: #ffffff;
+}
+.box-margin{
+	margin-bottom: 25px;
+}
+.section-header{
+	margin: 27px auto 1px 28px;
+}
+.section-p{
+	width: 254px;
+	margin: auto 29px 33px 29px;
+}
+.section-icon{
+	margin-left: 28px;
+	margin-bottom: 29px;
+
+}
