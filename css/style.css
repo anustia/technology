@@ -87,3 +87,43 @@ h1{
 	margin-bottom: 29px;
 
 }
+
+
+
+/* destop design*/
+@media screen and (min-width: 600px) {
+	/*header*/
+	h1{
+ 	font-size: 36px;
+ 	line-height: 54px;
+
+ }
+ .header-box{
+ 	width: 460px;
+ 	max-width: 100%;
+ }
+.header-span{
+	font-size: 36px;
+	line-height: 54px;
+}
+
+
+
+	/*SECTION*/
+ .section-boxs{
+ 	display: flex;
+ 	flex-direction: row;
+ 	 align-items:center;
+ 	 max-width: 100%;
+ }
+ .two-box{
+ 	display: flex;
+ 	flex-direction: column;
+ }
+ .header-p{
+ 	width: 540px;
+ 	max-width: 100%;
+ }
+ 
+
+}
